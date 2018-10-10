@@ -75,20 +75,17 @@ labels:
 # selected articles
 classes:
 
-  -
-    href: /life.html
-    name: 我的故事
-    describe: 生活就是故事，故事就是生活
+
 
 
 
 # ---------------- #
 #       RSS        #
 # ---------------- #
-# subscribe_rss: /feed.xml
+ subscribe_rss: /feed.xml
 
 # Sidebar to show popular repo
-#side_bar_repo_limit: 6 # Number of repos to show
+side_bar_repo_limit: 6 # Number of repos to show
 
 # Google Analytics
 # analytics :
