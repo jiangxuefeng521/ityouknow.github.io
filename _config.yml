@@ -19,7 +19,7 @@ repository: jiangxuefeng521/jiangxuefeng521.github.io
 github_url: https://github.com/jiangxuefeng521
 cnblog_url: http://www.cnblogs.com/jiangxuefeng521
 url: https://jiangxuefeng521.github.io
-enforce_ssl: ityouknow.com
+
 
 ## Gem
 plugins:
